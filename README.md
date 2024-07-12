@@ -42,6 +42,7 @@ O backend deve agora estar em execução e ouvindo na porta definida.
 Navegue até o diretório do frontend e execute o comando para instalar todas as dependências listadas no package.json.
 
 cd /path/to/sn1tchapp-frontend
+
 npm install
 
 ### Inicie o servidor de desenvolvimento:
